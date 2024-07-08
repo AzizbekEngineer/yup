@@ -71,6 +71,7 @@ const Login = () => {
                 }`}
                 placeholder={t("password")}
                 name="password"
+                type="password"
               />
               <button
                 className="login__btn"

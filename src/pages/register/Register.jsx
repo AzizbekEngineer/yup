@@ -39,7 +39,8 @@ const Register = () => {
     setTimeout(() => {
       setSubmitting(false);
       setValues(initialState);
-      navigate("/login");
+      console.log(values);
+      // navigate("/login");
     }, [2000]);
   };
 
@@ -116,6 +117,7 @@ const Register = () => {
                   placeholder={t("password")}
                   name="password"
                   id="password"
+                  type="password"
                 />
               </div>
               <div className="input">
@@ -129,6 +131,7 @@ const Register = () => {
                   placeholder={t("confirmPassword")}
                   name="confirmPassword"
                   id="confirmPassword"
+                  type="password"
                 />
               </div>
               <button
