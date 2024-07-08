@@ -1,0 +1,19 @@
+{
+    "header":"Header",
+    "choose-lang":"Choose Lang",
+    "home":"Home",
+    "about":"About",
+    "contact":"Contact",
+    "register":"Register",
+    "title":"Welcome to ByTrend!",
+    "login-desc":"Already have an account?",
+    "register-desc1":"By signing up, you are agreeing to our ",
+    "register-desc2":"By signing up, you are agreeing to our ",
+    "reversed":"©2020 All Rights Reserved. by ByTrend",
+    "email":"Email",
+    "password":"Password",
+    "phone":"Phone",
+    "city":"City",
+    "country":"Country",
+    "confirmPassword":"Confirm Password"
+}
